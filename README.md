@@ -13,7 +13,8 @@
 
       Console.WriteLine(Math.Round(totalCost)); 
 - Görsel;
-  ![hackerRankDay2Operators](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/yigit/Desktop/hackerRankDay2Operators/hackerRankDay2Operators.png?version%3D1654651515965)
+
+  ![hackerRankDay2OperatorsGorseli](hackerRankDay2Operators.png)
 
 ### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24) 
 #### https://www.hackerrank.com/ogulcan_celik24
